@@ -3,5 +3,4 @@ mhs={
     console.log(nama);
   }
 }
-
 mhs.halo('rafi');
